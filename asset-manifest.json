@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SuperTestForm/static/css/main.a010eb97.css",
+    "main.js": "/SuperTestForm/static/js/main.26f164c3.js",
+    "static/media/bg.jpg": "/SuperTestForm/static/media/bg.9f866cce0f4a6fc1189f.jpg",
+    "static/media/check.svg": "/SuperTestForm/static/media/check.d6b09388e9d0d5bc3cc619331cdf5bc9.svg",
+    "static/media/error.svg": "/SuperTestForm/static/media/error.13c401e5a00586590fc5ec4d0553e4f7.svg",
+    "index.html": "/SuperTestForm/index.html",
+    "main.a010eb97.css.map": "/SuperTestForm/static/css/main.a010eb97.css.map",
+    "main.26f164c3.js.map": "/SuperTestForm/static/js/main.26f164c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a010eb97.css",
+    "static/js/main.26f164c3.js"
+  ]
+}
