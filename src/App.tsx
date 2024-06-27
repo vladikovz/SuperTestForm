@@ -193,7 +193,7 @@ function App() {
         <StyledButton
           disabled={
             Boolean(props.errors.password) || Boolean(props.errors.repeatPassword) || !props.dirty
-            //something new 1
+            //something new 1 asdfasfa
           }
           onClick={() => setStep('Review')}
         >
