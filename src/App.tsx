@@ -194,6 +194,7 @@ function App() {
           disabled={
             Boolean(props.errors.password) || Boolean(props.errors.repeatPassword) || !props.dirty
             //something new 1
+            // new for rebase 1
           }
           onClick={() => setStep('Review')}
         >
